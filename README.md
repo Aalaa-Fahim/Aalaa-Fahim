@@ -17,7 +17,7 @@ Hi, I’m **Aalaa Fahim**, a dedicated **Software Engineer** with a passion for 
 ### [BeautyNest](https://github.com/Aalaa-Fahim/BeautyNest)
 An e-commerce platform for beauty and self-care products featuring user authentication, shopping cart, and category-specific product browsing.
 
-### [QuizMaster](https://github.com/Aalaa-Fahim/QuizMaster)
+### [QuizMaster](https://github.com/Aalaa-Fahim/Quiz_Master)
 An interactive quiz application that allows users to take quizzes on various topics, and improve knowledge.
 
 ### [Simple Shell](https://github.com/Aalaa-Fahim/simple_shell)
