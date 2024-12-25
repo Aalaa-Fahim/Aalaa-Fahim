@@ -29,13 +29,6 @@ A command-line interpreter project built in **C** that mimics the Unix shell fun
 - Built multiple scalable web applications with different frameworks.
 - Developed a functional printf and shell program in C, reinforcing knowledge of operating systems and system programming.
 
----
-
-## 💬 Let’s Connect
-
-- **[LinkedIn](https://www.linkedin.com/in/aalaa-fahim/)** 
-- **[Email](aalaa.fahim1@gmail.com)**
-
 <!--
 **Aalaa-Fahim/Aalaa-Fahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
